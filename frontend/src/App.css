@@ -1,0 +1,138 @@
+
+.nav-ul li{
+  display: inline-block;
+  padding: 10px;
+
+}
+
+.nav-ul li a{
+  color: antiquewhite;
+  text-decoration: none;
+}
+
+.nav-ul {
+  padding: 5px;
+  margin: 0px;
+  background-color: skyblue;
+}
+
+.nav-right{
+  text-align: right;
+}
+
+.logo{
+  width: 45px;
+  height: 50px;
+  float: left;
+  border-radius: 50%;
+  margin-left: 20px;
+}
+
+.footer{
+  padding: 5px;
+  margin: 0px;
+  position: absolute;
+  bottom: 0px;
+  text-align: center;
+  background-color: skyblue;
+  width: 100%;
+}
+
+.signup , .addproduct{
+  margin: 10vh;
+  margin-left: 35%;
+  align-items: center;
+}
+
+.addproduct{
+  margin-top: 10vh;
+}
+
+.inputBox{
+  display: block;
+  padding: 10px;
+  margin: 35px;
+  width: 300px;
+  border: 1px solid black;
+}
+
+.btn{
+  margin-left: 35px;
+  padding: 9px 35px;
+  border-radius: 5px;
+  background-color:skyblue;
+  border: 1px solid ;
+  cursor: pointer;
+}
+
+.input-valid{
+  color: red;
+  display: block;
+  margin-top: -40px;
+  font-size: 15px;
+  margin-left: 20px;
+}
+
+.product-list{
+  text-align: center;
+  align-items: center;
+}
+
+.product-list ul li{
+  display: inline-block;
+  border: 1px solid skyblue;
+  padding: 5px;
+  width: 150px;
+}
+
+.product-list h1{
+  font-size: 20px;
+  background-color: yellow;
+  color: red;
+}
+
+.h1{
+  font-size: 20px;
+  background-color: yellow;
+  color: red;
+  text-align: center;
+}
+
+.update{
+  bottom: 8px;
+  position: relative;
+}
+
+.ul1 li{
+  font-weight: bold;
+  border: 2px solid black;
+}
+
+.ul2{
+  height: 55vh;
+  padding-left: 17px;
+  overflow-y: scroll;
+}
+
+.button{
+  background-color: red;
+}
+
+.product-list ul{
+  margin: 0px ;
+}
+
+.btn2 {
+  text-decoration: none;
+  color: black;
+  background-color: skyblue;
+}
+
+.search{
+  margin-left: 35%;
+  width: 400px;
+  padding: 10px;
+  padding-left: 50px;
+  border: 1px solid blue ;
+  border-radius: 0px 20px; 
+}
